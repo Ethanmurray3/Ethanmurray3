@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ethanmurray3
-- 👀 I’m interested in finacne and softeare
+- 👀 I’m interested in finance and software
 - 🌱 I’m currently learning front end programming languages like HTML and CSS
 - 📫 How to reach me by emailing me at ethanmurray3@icloud.com
 
