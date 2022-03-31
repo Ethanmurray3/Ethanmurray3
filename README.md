@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethanmurray3
-- 👀 I’m interested in finance and software
-- 🌱 I’m currently learning front end programming languages like HTML and CSS
+- 👀 I’m interested in finance and bitcoin
+- 🌱 I’m currently learning python
 - 📫 How to reach me by emailing me at ethanmurray3@icloud.com
 
 <!---
